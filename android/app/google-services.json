@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528215331730",
+    "project_id": "travelyourway-d3a33",
+    "storage_bucket": "travelyourway-d3a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528215331730:android:4f900c877b5c0bc4fa674b",
+        "android_client_info": {
+          "package_name": "com.example.travel_your_way"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528215331730-a8h57rbp8vpmv9oc5oqoig5908p0fd8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travel_your_way",
+            "certificate_hash": "8848a03cebe714af8aafb4d189203cf360c37de8"
+          }
+        },
+        {
+          "client_id": "528215331730-osp78nv94q8f9a9dmi6v67t32diuaji5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRtvCEalIm8JgOr3RS1ChofCmrN2c1YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528215331730-osp78nv94q8f9a9dmi6v67t32diuaji5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
